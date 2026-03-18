@@ -93,11 +93,11 @@ Algorithms-data-structures-project/
 ├── spell_checker/
 │   ├── spell_checker.py
 │   ├── text_files/
-│   └── tests/
+│   └── test_spell_checker.py
 │
 ├── weekend_assign/
 │   ├── weekend_assign.py
-│   └── tests/
+│   └── test_weekend_assign.py
 │
 ├── README.md
 └── .gitignore
